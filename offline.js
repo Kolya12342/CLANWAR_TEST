@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1546507776,
+	"version": 1546515109,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,8 @@
 		"images/sprite58-sheet0.png",
 		"images/sprite59-sheet0.png",
 		"images/sprite60-sheet0.png",
+		"images/sprite74-sheet0.png",
+		"images/sprite76-sheet0.png",
 		"images/arm-sheet0.png",
 		"images/block-sheet0.png",
 		"images/bullet-sheet0.png",
@@ -63,7 +65,6 @@
 		"images/mask-sheet0.png",
 		"images/mask-sheet1.png",
 		"images/sprite56-sheet0.png",
-		"images/sprite57-sheet0.png",
 		"images/Прицел-sheet0.png",
 		"images/огонь-sheet0.png",
 		"media/m4a1-1.ogg",

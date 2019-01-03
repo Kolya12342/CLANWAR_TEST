@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1546507776
+#1546515109
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -47,6 +47,8 @@ images/sprite55-sheet0.png
 images/sprite58-sheet0.png
 images/sprite59-sheet0.png
 images/sprite60-sheet0.png
+images/sprite74-sheet0.png
+images/sprite76-sheet0.png
 images/arm-sheet0.png
 images/block-sheet0.png
 images/bullet-sheet0.png
@@ -62,7 +64,6 @@ images/sprite44-sheet0.png
 images/mask-sheet0.png
 images/mask-sheet1.png
 images/sprite56-sheet0.png
-images/sprite57-sheet0.png
 images/Прицел-sheet0.png
 images/огонь-sheet0.png
 media/m4a1-1.ogg
